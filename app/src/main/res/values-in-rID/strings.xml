@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jelajah TV v0.2</string>
+    <string name="airing_today">TV</string>
+    <string name="popular">Film</string>
+    <string name="favorite">Favorit</string>
+    <string name="first_air_date">Perdana</string>
+    <string name="last_air_date">Terakhir</string>
+    <string name="episode">Episode</string>
+    <string name="season">Musim</string>
+    <string name="overview">Sinopsis</string>
+    <string name="rate">Rating</string>
+    <string name="favorite_empty">Daftar favorit masih kosong</string>
+    <string name="search">Cari</string>
+    <string name="language">Bahasa</string>
+    <string name="cast">Pemain</string>
+    <string name="error">Gagal Memuat Data</string>
+    <string name="no_favorite">Tidak Ada Favorit</string>
+</resources>
